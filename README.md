@@ -18,6 +18,7 @@
 * Cloned both repositories on my local machine using HTTPS.
 bash
 git clone https://github.com/ashishpawar21/Git-and-Gitlab-practical-assigment.git
+
 git clone https://gitlab.com/ashish.pawar.kingsman/git-and-gitlab-practical-assigment.git
 
 * In the private repository:
