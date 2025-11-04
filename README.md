@@ -1,4 +1,3 @@
-# Git-and-Gitlab-practical-assigment
 # Git and GitLab Practical Assignment
 
 ## Part 1: GitHub Tasks
